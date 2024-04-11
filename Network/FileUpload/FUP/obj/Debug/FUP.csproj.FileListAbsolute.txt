@@ -1,0 +1,6 @@
+D:\100.Dev-Reference\Ref-CSharp\Network\FileUpload\FUP\bin\Debug\FUP.dll
+D:\100.Dev-Reference\Ref-CSharp\Network\FileUpload\FUP\bin\Debug\FUP.pdb
+D:\100.Dev-Reference\Ref-CSharp\Network\FileUpload\FUP\obj\Debug\FUP.csproj.AssemblyReference.cache
+D:\100.Dev-Reference\Ref-CSharp\Network\FileUpload\FUP\obj\Debug\FUP.csproj.CoreCompileInputs.cache
+D:\100.Dev-Reference\Ref-CSharp\Network\FileUpload\FUP\obj\Debug\FUP.dll
+D:\100.Dev-Reference\Ref-CSharp\Network\FileUpload\FUP\obj\Debug\FUP.pdb
